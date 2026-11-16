@@ -15,11 +15,7 @@ namespace CheckInApi.Modelos
         private List<Equipaje> _equipajes = new List<Equipaje>();
 
         // Definición del constructor
-        public List<Equipaje> Equipajes
-        {
-            get { return _equipajes; }
-            set { _equipajes = value; }
-        }
+        
         public Pasajero(string nombre, 
             string apellido, 
             string documento, 
@@ -47,7 +43,11 @@ namespace CheckInApi.Modelos
         }
 
         // Definición de propiedades
-
+        public List<Equipaje> Equipajes
+        {
+            get { return _equipajes; }
+            set { _equipajes = value; }
+        }
          public Pasaje? Pasaje { get; set; }
 
         public int Id { get; set; }
@@ -85,10 +85,6 @@ namespace CheckInApi.Modelos
             set { _pasajeroFrecuente = value; }
         }
 
-        public List<Equipaje> getEquipajes()
-        {
-            return _equipajes;
-        }
 
         public void agregarEquipaje(Equipaje unEquipaje)
         {
@@ -114,6 +110,6 @@ namespace CheckInApi.Modelos
         }
 
         }
-        // equipaje
+        
 
 }
