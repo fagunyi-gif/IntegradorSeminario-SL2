@@ -1,6 +1,6 @@
 using CheckInApi.Modelos;
 using CheckInApi.Modelos.Exceptions;
-
+//aca tenemos la operacion
 public class CheckInService
 {
     private readonly IPasajeroRepository repositorio;
@@ -55,5 +55,6 @@ public class CheckInService
             return (true, "Pasaje agregado correctamente al pasajero.");
         }
     }
+
 
 }

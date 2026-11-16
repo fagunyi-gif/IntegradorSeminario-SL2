@@ -7,7 +7,7 @@ namespace CheckInApi.Modelos
     public class Equipaje
     {
         private double _pesoKg;
-        private string _id;
+        public string _id;
 
         public Equipaje(double pesoKg, string id)
         {
@@ -16,6 +16,6 @@ namespace CheckInApi.Modelos
         }
 
         public double PesoKg { get { return _pesoKg; } }
-
+        public string Id { get { return _id; } }
     }
 }
