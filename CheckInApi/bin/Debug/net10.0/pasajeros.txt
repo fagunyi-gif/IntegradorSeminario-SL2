@@ -1,1 +1,2 @@
 1|Ada|Lovelace|12345678|true|||
+2|pedro|losiento|1234432|true|||

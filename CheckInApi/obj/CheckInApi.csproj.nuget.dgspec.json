@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\INFOTECNO\\Documents\\GitHub\\IntegradorSeminario-SL2\\CheckinApi\\CheckInApi.csproj": {}
+    "C:\\Users\\INFOTECNO\\Documents\\GitHub\\IntegradorSeminario-SL2\\CheckInApi\\CheckInApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\INFOTECNO\\Documents\\GitHub\\IntegradorSeminario-SL2\\CheckinApi\\CheckInApi.csproj": {
+    "C:\\Users\\INFOTECNO\\Documents\\GitHub\\IntegradorSeminario-SL2\\CheckInApi\\CheckInApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\INFOTECNO\\Documents\\GitHub\\IntegradorSeminario-SL2\\CheckinApi\\CheckInApi.csproj",
+        "projectUniqueName": "C:\\Users\\INFOTECNO\\Documents\\GitHub\\IntegradorSeminario-SL2\\CheckInApi\\CheckInApi.csproj",
         "projectName": "CheckInApi",
-        "projectPath": "C:\\Users\\INFOTECNO\\Documents\\GitHub\\IntegradorSeminario-SL2\\CheckinApi\\CheckInApi.csproj",
+        "projectPath": "C:\\Users\\INFOTECNO\\Documents\\GitHub\\IntegradorSeminario-SL2\\CheckInApi\\CheckInApi.csproj",
         "packagesPath": "C:\\Users\\INFOTECNO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\INFOTECNO\\Documents\\GitHub\\IntegradorSeminario-SL2\\CheckinApi\\obj\\",
+        "outputPath": "C:\\Users\\INFOTECNO\\Documents\\GitHub\\IntegradorSeminario-SL2\\CheckInApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\INFOTECNO\\AppData\\Roaming\\NuGet\\NuGet.Config",

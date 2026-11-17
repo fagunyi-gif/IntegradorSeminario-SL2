@@ -1,6 +1,8 @@
 @CheckInApi_HostAddress = http://localhost:5129
 @documento = 12345678
 
+@id = 1;
+
 # Obtener todos los pasajeros
 GET {{CheckInApi_HostAddress}}/api/Pasajero
 Accept: application/json
@@ -8,7 +10,7 @@ Accept: application/json
 ###
 
 # Obtener un pasajero por documento
-GET {{CheckInApi_HostAddress}}/api/Pasajero/{{documento}}
+GET {{CheckInApi_HostAddress}}/api/Pasajero/{{id}}
 Accept: application/json
 
 ###
